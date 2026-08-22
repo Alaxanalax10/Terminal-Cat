@@ -1,7 +1,5 @@
 # 🌐 FlyNetX: Terminal Cat
 
-![FlyNetX](FlyNetX.jpg)
-
 **Terminal Cat** is a proprietary, multi-threaded communication uplink developed by **FlyNetX**. Designed with a sleek, neon-cyan cyberpunk aesthetic, this terminal-based application allows multiple operatives (Runners) to "jack into" a centralized mainframe and broadcast encrypted messages in real-time across the grid.
 
 ---
@@ -62,7 +60,6 @@ FlyNetX_Terminal_Cat/
 │
 ├── server.py        # The Mainframe: handles socket binding, listening, and broadcasting.
 ├── client.py        # The Deck: handles server connection, threading, and UI rendering.
-├── FlyNetX.jpg      # Official FlyNetX Organization Logo
 └── README.md        # System Documentation
 ```
 
